@@ -1,0 +1,19 @@
+{
+  "name": "cvrd",
+  "version": "0.0.1",
+  "description": "Keep Clean, Organized Console Logs",
+  "main": "./src/cvrd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanrocket/cvrd.git"
+  },
+  "author": "Ryan Wans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanrocket/cvrd/issues"
+  },
+  "homepage": "https://github.com/ryanrocket/cvrd#readme"
+}
